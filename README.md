@@ -107,7 +107,7 @@ This Class-D amplifier circuit consists of four main stages:
 - The output load (speaker) thus receives **alternating polarity PWM**, doubling the effective voltage swing.
 
 ### 6️⃣ Output LC Low-Pass Filter
-- A combination of **inductor (22µH)** and **capacitor (470nF)** filters the high-frequency PWM into a **smooth analog waveform**.
+- A combination of **inductor (30µH)** and **capacitor (1uF,450v)** filters the high-frequency PWM into a **smooth analog waveform**.
 - The result is a **clean, amplified audio output**.
 
 ---
