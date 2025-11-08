@@ -193,6 +193,7 @@ More output power can be achieved by paralleling multiple MOSFETs.
 **GitHub:** [github.com/mikey-7x](https://github.com/mikey-7x?tab=repositories)  
 **License:** [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 **Date:** 2 November 2025
+
 ---
 
 ☕ Credits
