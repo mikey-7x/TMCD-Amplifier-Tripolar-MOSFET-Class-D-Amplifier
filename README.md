@@ -23,6 +23,8 @@ Unlike traditional two-MOSFET Class-D amplifiers, this design uses an **H-bridge
 
 ## 🏷️ Labels
 
+`#TMCD Amplifier` `H-bridge amplifier`
+`efficient amplifier`
 `#ClassD` `#Amplifier` `#ElectronicsProject` `#AudioAmplifier` `#PWM`  
 `#HBridge` `#MOSFET` `#NE555` `#LM393` `#AnalogToPWM` `#DIYProject`  
 
