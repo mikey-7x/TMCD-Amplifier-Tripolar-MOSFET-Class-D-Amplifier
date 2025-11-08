@@ -14,6 +14,12 @@ Unlike traditional two-MOSFET Class-D amplifiers, this design uses an **H-bridge
 
 ---
 
+## 🖼️ Circuit Diagram 
+
+![TMCD Amplifier](tmcd.jpg)
+
+---
+
 ## 🏷️ Labels
 
 `#ClassD` `#Amplifier` `#ElectronicsProject` `#AudioAmplifier` `#PWM`  
@@ -159,9 +165,18 @@ This amplifier delivers **double the power**, **less heat**, and **better sound 
 
 ---
 
-## 🖼️ Poster
+📜License
 
-![12V IRF540N MOSFET Class-D Amplifier](poster.png)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+---
+
+☕ Credits
+
+Developed with  ❤️ by **[mikey-7x](https://github.com/mikey-7x)** 🚀🔥  
+
+
+[other repository](https://github.com/mikey-7x?tab=repositories)
 
 ---
 
