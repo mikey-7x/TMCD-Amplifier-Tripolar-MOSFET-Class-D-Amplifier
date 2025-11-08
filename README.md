@@ -161,8 +161,8 @@ This amplifier delivers **double the power**, **less heat**, and **better sound 
 
 **Project Creator:** *Mikey / Yogesh R. Chauhan*  
 **Institute:** *BVM College of Engineering*  
-**GitHub:** [github.com/YogeshRC](https://github.com/YogeshRC)  
-**License:** MIT License  
+**GitHub:** [github.com/mikey-7x](https://github.com/mikey-7x?tab=repositories)  
+**License:** [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 
