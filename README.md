@@ -1,6 +1,7 @@
 # TMCD-Amplifier-Tripolar-MOSFET-Class-D-Amplifier
 # 🔊 12V IRF540N MOSFET CLASS-D AMPLIFIER (H-BRIDGE CONFIGURATION)
 
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ![Project Poster](tmcd.png)
 
 ---
@@ -162,12 +163,6 @@ This amplifier delivers **double the power**, **less heat**, and **better sound 
 **Institute:** *BVM College of Engineering*  
 **GitHub:** [github.com/YogeshRC](https://github.com/YogeshRC)  
 **License:** MIT License  
-
----
-
-📜License
-
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 
