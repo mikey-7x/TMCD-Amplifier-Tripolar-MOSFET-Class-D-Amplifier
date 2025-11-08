@@ -159,6 +159,33 @@ This amplifier delivers **double the power**, **less heat**, and **better sound 
 
 ---
 
+## 🔧 Improvements
+
+This Class-D amplifier circuit can be further optimized and upgraded to achieve higher output power and overall performance. Below are some practical improvement options:
+
+**1. Dual Power Supply Configuration:**
+Use two separate power supplies — one 12 V supply for the preamplifier, modulator, and driver stages, and another 25 V supply exclusively for the power stage (IRF540N MOSFETs).
+→ This separation reduces noise coupling and increases clean output power.
+
+
+**2. Higher Voltage MOSFET Upgrade (IRF640):**
+Replace IRF540N with IRF640 MOSFETs and power the stage with up to 80 V.
+→ This modification increases the amplifier’s power (wattage) output due to the MOSFET’s higher voltage handling capability.
+
+
+**3. High Power MOSFET Upgrade (IRFP260):**
+For extreme power applications, replace IRF540N with IRFP260 MOSFETs.
+→ This enhances both voltage and current handling, resulting in a drastic and almost exponential power increase.
+⚠️ However, ensure all MOSFETs have matching β (gain), R<sub>DS(on)</sub>, and threshold voltages to maintain control and prevent saturation or imbalance.
+
+
+**4. Parallel MOSFET Configuration:**
+More output power can be achieved by paralleling multiple MOSFETs.
+→ Always verify that all parallel MOSFETs have identical β values, R<sub>DS(on)</sub>, and V<sub>th</sub> ratings, as even slight mismatches can cause uneven current distribution or thermal runaway.
+
+**⚠️ use snubber circuit to protect mosfet against reverse peak voltage because our load is inductive when it's charge once and mosfet off conducting, inductor of speaker gives reverse voltage at mosfet's drain/source pin which connected to speaker**
+
+---
 ## 👨‍🔬 Author Info
 
 **Project Creator:** *Mikey-7x / Yogesh R. Chauhan*  
