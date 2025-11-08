@@ -1,7 +1,7 @@
 # TMCD-Amplifier-Tripolar-MOSFET-Class-D-Amplifier
 # 🔊 12V IRF540N MOSFET CLASS-D AMPLIFIER (H-BRIDGE CONFIGURATION)
 
-![Project Poster](poster.png)
+![Project Poster](tmcd.png)
 
 ---
 
