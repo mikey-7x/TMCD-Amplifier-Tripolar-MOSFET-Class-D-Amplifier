@@ -138,8 +138,8 @@ This amplifier delivers **double the power**, **less heat**, and **better sound 
 | LM386 / LM358 | Audio preamplifier |
 | BD139 / BD140 | Driver transistors |
 | IRF540N | Power MOSFETs for H-bridge |
-| L1 (22µH) | Output filter inductor |
-| C1 (470nF) | Output filter capacitor |
+| L1 (30µH) | Output filter inductor |
+| C1 (1uF ,450v) | Output filter capacitor |
 | D1-D4 | Flyback protection diodes |
 | 12V Regulator | LM7812 or LM2940 |
 | Audio Input | Line-level or Aux input |
