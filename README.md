@@ -176,6 +176,7 @@ Replace IRF540N with IRF640 MOSFETs and power the stage with up to 80 V.
 **3. High Power MOSFET Upgrade (IRFP260):**
 For extreme power applications, replace IRF540N with IRFP260 MOSFETs.
 → This enhances both voltage and current handling, resulting in a drastic and almost exponential power increase.
+
 ⚠️ However, ensure all MOSFETs have matching β (gain), R<sub>DS(on)</sub>, and threshold voltages to maintain control and prevent saturation or imbalance.
 
 
